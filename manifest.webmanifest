@@ -1,0 +1,16 @@
+{
+  "name": "Digitalizador — Decisão Essencial",
+  "short_name": "Digitalizador",
+  "description": "Digitalizar documentos e livros para PDF",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F9FA",
+  "theme_color": "#018DC0",
+  "icons": [
+    { "src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icones/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
